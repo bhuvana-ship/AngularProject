@@ -1,0 +1,19 @@
+.container {
+    header {
+        nav {
+            ul {
+                li {
+                    .active {
+                        background-color: yellow;
+                        color           : red;
+                        border          : 1px solid black;
+                        border-radius   : 10px;
+                    }
+                }
+            }
+
+        }
+    }
+   
+}
+
